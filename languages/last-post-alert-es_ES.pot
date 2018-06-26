@@ -1,0 +1,35 @@
+
+#: last-post-alert.php:27
+msgid "Settings"
+msgstr ""
+
+#: public/index.php:63
+msgid "Close"
+msgstr ""
+
+#: admin/index.php:32
+msgid "Alert settings"
+msgstr ""
+
+#: admin/index.php:38
+msgid "Background color"
+msgstr ""
+
+#: admin/index.php:43
+msgid "Font color"
+msgstr ""
+
+
+#: admin/index.php:49
+msgid "Animation"
+msgstr ""
+
+
+#: admin/index.php:108
+msgid "Exit animation"
+msgstr ""
+
+
+#: admin/index.php:108
+msgid "Plugin by"
+msgstr ""
