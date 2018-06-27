@@ -90,7 +90,7 @@ add_filter( 'plugin_action_links_' . plugin_basename(__FILE__), 'add_action_link
 
 
 
-function add_action_links ( $links ) {
+function Whats_add_action_links ( $links ) {
 
  $mylinks = array(
 
